@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AegirVOD&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-01-04T21:02:51.358Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>AegirVOD</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Real Hello-World</title>
+    <link href="http://example.com/2021/01/04/The-Real-Hello-World/"/>
+    <id>http://example.com/2021/01/04/The-Real-Hello-World/</id>
+    <published>2021-01-04T13:53:16.000Z</published>
+    <updated>2021-01-04T21:02:51.358Z</updated>
+    
+    <content type="html"><![CDATA[<p>Actually this is the first time I use markdown, and this is just a test article to lear how to markdown. So…it would look kinda clumsy or dumb.</p><p>Still have no idea how can I insert image into hexo articles.</p><p>Well, since this is the first-ever blog of mine, I gotta write something down, right?</p><h2 id="Why-did-I-wanted-to-start-blogging"><a href="#Why-did-I-wanted-to-start-blogging" class="headerlink" title="Why did I wanted to start blogging?"></a>Why did I wanted to start blogging?</h2><hr><p>It’s pretty simple. I had some really great (I belive) ideas, and sometimes I solved some really difficult problems (for me, I need a place to store them so that they don’t disappear from my tiny brain.</p><p>And bang, here we are!</p><h2 id="What-IS-this-blog"><a href="#What-IS-this-blog" class="headerlink" title="What IS this blog?"></a>What IS this blog?</h2><hr><p>For now, I’m planning to use my blog to recordm or save, my ideas in developpement, and some difficulties I’ve met during the process of developping (or using Arch Linux because everyday I get tons of them). And maybe, I say MAYBE, someday I would also add some kind of journal of my cycling training.</p><h2 id="What-else-do-I-wanna-say"><a href="#What-else-do-I-wanna-say" class="headerlink" title="What else do I wanna say ?"></a>What else do I wanna say ?</h2><hr><p>To be honest, nothing. I’m not a guy who is good at talking, nor writing.<br>So..</p><h3 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome!"></a>Welcome!</h3><h3 id="Bienvenue"><a href="#Bienvenue" class="headerlink" title="Bienvenue !"></a>Bienvenue !</h3><h3 id="欢迎光临"><a href="#欢迎光临" class="headerlink" title="欢迎光临 !"></a>欢迎光临 !</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Actually this is the first time I use markdown, and this is just a test article to lear how to markdown. So…it would look kinda clumsy or</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
